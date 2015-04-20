@@ -23,5 +23,6 @@ module ActiveModel
       end
 
     end
+    UUIDValidator = UuidValidator
   end
 end
